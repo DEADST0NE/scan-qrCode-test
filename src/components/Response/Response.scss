@@ -1,0 +1,23 @@
+.response-page {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: #B2BEC8;
+  font-weight: 600;
+  font-family: 'Times New Roman', Times, serif;
+  h1 {
+    margin: 0;
+    font-size: 1.7rem;
+    text-align: center;
+  } 
+
+  pre {
+    outline: 1px solid #ccc; 
+    padding: 5px; 
+    margin: 5px; 
+    margin-top: 30px;
+  } 
+
+}

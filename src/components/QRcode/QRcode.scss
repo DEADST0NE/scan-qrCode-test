@@ -1,0 +1,30 @@
+.qrCode-page {
+  .qrCode-page-header {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: #B2BEC8;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    h1 {
+      margin: 0;
+      font-size: 1.7rem;  
+    }
+    span {
+      font-size: 1.5rem; 
+    }
+    svg {
+      width: 80px;
+      height: 80px;
+      fill: #B2BEC8;
+      margin-bottom: 10px;
+    } 
+  }
+  .qrCode-page-body {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+  }
+}
